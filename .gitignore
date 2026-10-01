@@ -7,8 +7,6 @@ tools/design-inventory/node_modules/
 __pycache__/
 *.pyc
 .DS_Store
-.env
-.env.local
 .env.*.local
 .ruff_cache/
 .venv/
@@ -44,3 +42,4 @@ plugins/**/.closedloop-ai/
 
 # Generated route knowledge files
 .claude/docs/routes/*
+config.bat
